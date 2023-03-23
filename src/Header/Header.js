@@ -77,7 +77,7 @@ export default function Header() {
 
           <td>
             <a
-              href="https://github.com/JohnKimaiyo/Amazon-Data-Analys-React-App/blob/main/src/Publshed%20Report/Amazon%20Published%20Sales%20%20Report.pdf"
+              href="https://github.com/JohnKimaiyo/Carrefour-Sales-Data-Analysis-React/blob/main/src/Published%20Report/Careerfour%20Published%20Report.pdf"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -88,11 +88,11 @@ export default function Header() {
 
         <tr>
           <td>Googlesheet Dashboard Data</td>
-          <td>Image containing the Sales Visualised Data in Googlesheet</td>
+          <td> Visualised Data in Googlesheet</td>
 
           <td>
             <a
-              href="https://docs.google.com/spreadsheets/d/1NUMDmKWTlq3EncH-UNsKGHsMRyRDDuurPC5hVhrZT3o/edit#gid=0"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -102,10 +102,10 @@ export default function Header() {
         </tr>
         <tr>
           <td>Excel Dashboard </td>
-          <td>Check my Excel Dashboard</td>
+          <td>Check my Excel Sales  Dashboard</td>
           <td>
             <a
-              href="https://excel-to-json-javascript-converter.vercel.app/"
+              href=""
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -115,10 +115,10 @@ export default function Header() {
         </tr>
         <tr>
           <td>Power BI File </td>
-          <td>Check out my Power BI Dashbord File</td>
+          <td>Check out my Power BI  Sales Insights Dashbord File</td>
           <td>
             <a
-              href="https://excel-to-json-javascript-converter.vercel.app/"
+              href="https://github.com/JohnKimaiyo/Carrefour-Sales-Data-Analysis-React/blob/main/src/Published%20Report/Carefour%20Sales%20Analysis.pbix"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -131,7 +131,7 @@ export default function Header() {
           <td>Checkout sql statement to clean up the data</td>
           <td>
             <a
-              href="https://github.com/JohnKimaiyo/Amazon-Data-Analys-React-App/blob/main/src/SQL%20Queries/activedataset.sql"
+              href="https://github.com/JohnKimaiyo/Carrefour-Sales-Data-Analysis-React/blob/main/src/SQL%20Scripts/db.sql"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -141,7 +141,7 @@ export default function Header() {
         </tr>
         <tr>
           <td> Carrefour Source Files </td>
-          <td> CarrefourKaggle Dataset</td>
+          <td> Carrefour  Kaggle Dataset</td>
           <td>
             <a
               href="https://www.kaggle.com/datasets/promptcloud/amazon-product-dataset-2020"
@@ -157,7 +157,7 @@ export default function Header() {
           <td> Carrefour JSON Dataset</td>
           <td>
             <a
-              href="https://raw.githubusercontent.com/JohnKimaiyo/Amazon-Data-Analys-React-App/main/src/JSON%20Files/amazon.json"
+              href="https://raw.githubusercontent.com/JohnKimaiyo/Carrefour-Sales-Data-Analysis-React/main/src/Sourse%20Files/carrefour.json"
               target="_blank"
               rel="noopener noreferrer"
             >
