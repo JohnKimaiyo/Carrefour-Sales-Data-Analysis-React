@@ -20,3 +20,20 @@ SELECT TOP (1000) [order_id]
       ,[Reasons for cancelation and order refund]
   FROM [Carrefour Sales].[dbo].[Carrefour$]
   WHERE [status] like 'r%';
+
+  /****** Script for SelectTopNRows command from SSMS  ******/
+SELECT TOP (1000) [ProductID]
+      ,[Weight]
+      ,[FatContent]
+      ,[ProductVisibility]
+      ,[ProductType]
+      ,[MRP]
+      ,[Sales]
+      ,[Budgeted Sales]
+      ,[OutletID]
+      ,[Date]
+      ,[OutletSize]
+      ,[LocationType]
+      ,[OutletType]
+  FROM [Big Mart Sales].[dbo].['Big Mart Sales$']
+  WHERE [ProductType] like 'D%';
